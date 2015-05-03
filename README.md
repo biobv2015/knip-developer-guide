@@ -33,6 +33,13 @@
 - Example Projects: https://github.com/knime-ip/knip-examples
 - Lecture with KNIME Image Processing: https://github.com/kmader/Quantitative-Big-Imaging-2015/blob/master/Exercises/02-Description-KNIME.md
 
+### ImageJ2 (optional for seminar):
+- Short Description: ImageJ2 is a supercharged version of ImageJ1 with new features. ImageJ2 is an entirely redesigned, more powerful set of software libraries. 
+- Uses: ImgLib2, ImageJ-Ops
+- Link: http://imagej.et
+- GitHub: https://github.com/imagej
+- Tutorials: https://github.com/imagej/imagej-tutorials
+
 ## Guidelines
 - Questions/Bug-Reports concerning the individual frameworks: Issues in the corresponding repositories.
 - Questions/Bug-Reports concerning KNIME Image Processing: http://tech.knime.org/forum/knime-image-processing
