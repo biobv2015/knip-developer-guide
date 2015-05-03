@@ -44,4 +44,6 @@
 - Questions/Bug-Reports concerning the individual frameworks: Issues in the corresponding repositories.
 - Questions/Bug-Reports concerning KNIME Image Processing: http://tech.knime.org/forum/knime-image-processing
 
+Asking questions in a public forum or reporting the bugs on github makes sure, that others also benefit from the answers to your questions or see which bugs have already been reported and maybe solved.
+
 
