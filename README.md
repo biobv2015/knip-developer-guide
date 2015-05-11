@@ -13,7 +13,7 @@
 ### ImgLib2:
 - Short Description: ImgLib2 is a general-purpose, multidimensional image processing library.
 - Link: http://imglib2.net
-- GitHub: http://github.com/imglib2/imglib2
+- GitHub: http://github.com/imglib/imglib2
 - Tutorial "Getting Started": http://fiji.sc/ImgLib2_-_Introductory_Workshop
 - Tutorial "Advanced": http://fiji.sc/ImgLib2_-_Advanced_Programming_Workshop
 
@@ -36,7 +36,7 @@
 ### ImageJ2 (optional for seminar):
 - Short Description: ImageJ2 is a supercharged version of ImageJ1 with new features. ImageJ2 is an entirely redesigned, more powerful set of software libraries.
 - Uses: ImgLib2, ImageJ-Ops
-- Link: http://imagej.et
+- Link: http://imagej.net
 - GitHub: https://github.com/imagej
 - Tutorials: https://github.com/imagej/imagej-tutorials
 
